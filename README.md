@@ -7,7 +7,10 @@ allow assignment of members to trainers
 allow assignment of fitnesplans to members
 allow the following search reports - plans/members/trainer by name, all members under a specific trainer/fitnessplan, all trainers facilitating a specific plan
 
+to start, navigate to app and run : 
 python cli.py --help
+
+expected output
 Usage: cli.py [OPTIONS] COMMAND [ARGS]...
 
   Fitness App CLI
